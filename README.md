@@ -11,7 +11,7 @@ Je vous invite à venir découvrir mon CV en ligne
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
 ## Lien
-
+<a href="https://jonathanchosson.github.io/cvEnLigne/index.html" alt="Mon CV en ligne" target="_blank">Visitez le CV en ligne</a>
 
 ## Auteur
 <img src='https://img.shields.io/badge/Autor-Chosson Jonathan-blue' />
